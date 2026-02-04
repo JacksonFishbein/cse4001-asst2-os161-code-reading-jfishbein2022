@@ -9,7 +9,7 @@ Questions:
 1. OS/161 needs to be reconfigured every time a new file is added to the system either in `kernel` "land" or `userland`. What the path of the directory where the configuration files are kept? 
 
    ```shell
-   
+   TETSTSTSTSTST
    ```
 
 2. The `trapframe` data structure describes what is saved on the stack during entry to the exception handler. The address of this data structure is passed as an (input) argument to the various trap/interrupt handlers in the system. What is the path of the directory containing the `trapframe` definition? 
