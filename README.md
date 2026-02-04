@@ -87,7 +87,7 @@ Questions:
 14. What are the directories inside `userland/testbin/` ? 
 
     ```c
-    see Question#14.png
+    see "Question#14.png"
     ```
 
 15. What is the goal of the file: `userland/testbin/Makefile`? 
@@ -99,9 +99,9 @@ Questions:
 16. Consider lines 6, 7, and 8 in the file `userland/testbin/forktest/Makefile`. What does each line do? 
 
     ```c
-    PROG=forktest #Defines the name of the executable program
+    PROG=forktest //Defines the name of the executable program
 
-    SRCS=forkfest.c #Specifies the source files
+    SRCS=forkfest.c //Specifies the source files
 
-    BINDIR=/testbin #Specifies the directory
+    BINDIR=/testbin //Specifies the directory
     ```
