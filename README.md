@@ -86,7 +86,7 @@ Questions:
 
 14. What are the directories inside `userland/testbin/` ? 
 
-   ![Question 14](Question#14.png)
+   ![Question 14](Question14.png)
 
 15. What is the goal of the file: `userland/testbin/Makefile`? 
 
