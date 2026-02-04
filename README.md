@@ -87,7 +87,7 @@ Questions:
 14. What are the directories inside `userland/testbin/` ? 
 
     ```shell
-    <img width="952" height="524" alt="image" src="https://github.com/user-attachments/assets/8a4cb403-5b78-494b-a5d9-6e89f810ba66" />
+    <img width="952" height="524" alt="image" src="https://github.com/JacksonFishbein/cse4001-asst2-os161-code-reading-jfishbein2022/blob/main/image_2026-02-03_221948122.png" />
 
     ```
 
