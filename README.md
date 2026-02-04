@@ -87,7 +87,7 @@ Questions:
 14. What are the directories inside `userland/testbin/` ? 
 
     ```shell
-[See Question#7.png]
+(See Question#7.png)
     ```
 
 15. What is the goal of the file: `userland/testbin/Makefile`? 
