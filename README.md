@@ -87,8 +87,7 @@ Questions:
 14. What are the directories inside `userland/testbin/` ? 
 
     ```shell
-    <img width="952" height="524" alt="image" src="https://github.com/JacksonFishbein/cse4001-asst2-os161-code-reading-jfishbein2022/blob/main/image_2026-02-03_221948122.png" />
-
+[See Question#7.png]
     ```
 
 15. What is the goal of the file: `userland/testbin/Makefile`? 
