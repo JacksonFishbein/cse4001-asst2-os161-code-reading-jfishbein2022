@@ -86,18 +86,18 @@ Questions:
 
 14. What are the directories inside `userland/testbin/` ? 
 
-    ```shell
-(See Question#7.png)
+    ```c
+See Question#7.png
     ```
 
 15. What is the goal of the file: `userland/testbin/Makefile`? 
 
-    ```shell
+    ```c
     
     ```
 
 16. Consider lines 6, 7, and 8 in the file `userland/testbin/forktest/Makefile`. What does each line do? 
 
-    ```shell
+    ```c
     
     ```
