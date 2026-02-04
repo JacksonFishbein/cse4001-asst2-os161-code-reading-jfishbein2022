@@ -1,6 +1,6 @@
 # cse4001-asst2-os161-code-reading-jfishbein2022
 
-# **Task 1: **
+# **Task 1:**
 ![Docker Container Error](ErrorWhenCommittingFromContainer.png)
 
 # **Task 2: Answer the following questions**
